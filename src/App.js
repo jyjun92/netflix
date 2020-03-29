@@ -3,6 +3,7 @@ import axios from "axios";
 import Movie from "./Movie";
 import "./App.css";
 
+
 //npm i gh-pages for github pages 
 // npm 
 //only if you need state, you need class component : react.component
