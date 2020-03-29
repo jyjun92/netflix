@@ -4,6 +4,7 @@ import Movie from "./Movie";
 import "./App.css";
 
 //npm i gh-pages for github pages 
+// npm 
 //only if you need state, you need class component : react.component
 class App extends React.Component {
   state = {
